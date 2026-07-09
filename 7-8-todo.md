@@ -1,3 +1,25 @@
+[] 完成cot数据构建，整理Qwen3.5
+https://developer.aliyun.com/article/1730072
+Gated Attention: Wv d_model->d_k WvWo的秩最多为dk,这是低秩线性瓶颈
+vit 
+Clip
+SigLip
+其他CLIP变体
+LLaVA
+BLip2
+Flamingo
+[] triton 入门
+(https://zhuanlan.zhihu.com/p/20539246076)[Triton-Puzzles-Lite]
+[] UIA调研
+Windows-Use OmniParser v2
+[] Observation 压缩
+Signal-Driven Observation
+Acon 
+Region4Web
+CoACT
+
+[] 音频编码
+
 下面是截至 **2026-07-09** 我查到的脉络。结论先说：**Microsoft UI Automation/UIA 更像 Windows 桌面自动化的“结构化感知层”，而现在的 Computer Use 论文主线更偏“视觉截图 + 坐标动作 + 长任务规划”。最值得做的方向，是把 UIA tree 和视觉模型结合起来。**
 
 **1. 基础层：Microsoft UI Automation / UIA**
