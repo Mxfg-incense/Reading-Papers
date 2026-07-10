@@ -17,7 +17,6 @@ Signal-Driven Observation
 Acon 
 Region4Web
 CoACT
-
 [] 音频编码
 
 下面是截至 **2026-07-09** 我查到的脉络。结论先说：**Microsoft UI Automation/UIA 更像 Windows 桌面自动化的“结构化感知层”，而现在的 Computer Use 论文主线更偏“视觉截图 + 坐标动作 + 长任务规划”。最值得做的方向，是把 UIA tree 和视觉模型结合起来。**
